@@ -7,7 +7,7 @@ I enjoy building projects, learning new technologies, and exploring different ar
 ### 🛠️ Tech Stack
 
 `C` `C++` `JavaScript` `Python`
-`HTML` `CSS` `React` `Node.js`  `Node.js`
+`HTML` `CSS` `React` `Node.js` 
 `Pandas` `NumPy`
 `MySQL` `MongoDB`  
 `Git` `GitHub` `VS Code`
